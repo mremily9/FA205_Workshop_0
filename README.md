@@ -76,6 +76,8 @@ The final star shape made out of triangles
 This was a very experimental project, and as such, I didn't have a clear vision of what to make, but rather, I had thoughts of how I could try to do this, etc. 
 Right now, it looks somewhat like a night sky with a shooting star, perhaps developing this to look like it fully or to refine the star to look more even and proportionate. 
 
+I would love to learn more about interactivity and how we can use cursors, keyboards, and buttons within p5.js. 
+
 
 
 
